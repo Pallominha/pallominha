@@ -5,7 +5,7 @@
 Sou técnica em Informática, graduanda em Engenharia da Computação e apaixonada por tecnologia, desenvolvimento de software e soluções criativas. Atualmente estou focada em:
 
 - 🧠 Inteligência Artificial e Machine Learning
-- 🌐 Desenvolvimento Web com Django e Bootstrap
+- 🌐 Desenvolvimento Web com Python, Django e Bootstrap
 - 🛠️ Análise e testes de sistemas
 
 ---
