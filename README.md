@@ -6,7 +6,7 @@ Sou técnica em Informática, graduanda em Engenharia da Computação e apaixona
 
 - 🧠 Inteligência Artificial e Machine Learning
 - 🌐 Desenvolvimento Web com Python, Django e Bootstrap
-- 🛠️ Análise e testes de sistemas
+- 🛠️ Automação e testes de sistemas
 
 ---
 
